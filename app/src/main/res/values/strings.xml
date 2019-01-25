@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HttpJson</string>
+    <string name="button_name">点击我查询</string>
+    <string name="url">https://www.tzgw.xyz/swhy/wx_ls1.php</string>
+</resources>
